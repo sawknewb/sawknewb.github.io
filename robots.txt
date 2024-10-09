@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sawknewb.github.io/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/app/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/assets/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/css/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/includes/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/item/sitemap.html.gz
+Sitemap: https://sawknewb.github.io/src/sitemap.html.gz
